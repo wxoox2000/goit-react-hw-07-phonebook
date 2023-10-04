@@ -42,6 +42,7 @@ export const DeleteBtn = styled.button`
   font-size: 18px;
   height: 30px;
   padding: 5px;
+  width: 66px;
   border: 2px solid
     ${p => {
       return p.theme.khakiGreen;
